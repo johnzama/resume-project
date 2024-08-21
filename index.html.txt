@@ -3,102 +3,121 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume - John Ndeh-Zama</title>
+    <title>Resume - John Ndeh Zama</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="resume">
+    <div class="container">
         <header>
-            <h1>JOHN NDEH-ZAMA</h1>
-            <p>Glen Burnie MD 21061 • 240-761-3271 • johnzama08@gmail.com</p>
+            <h1>John Ndeh Zama</h1>
+            <p>Email: johnsparta2121@gmail.com | Phone: (240) 761-3271</p>
         </header>
         
         <section>
-            <h2>Professional Summary</h2>
-            <p>An experienced DevSecOps specialist focused on enabling cloud-based solutions through 8+ years developing scalable, highly available and fault-tolerant architectures aligned with organizational goals. Skilled at leveraging automation tools like Code Deploy, Code Build and Code Pipeline to streamline processes and optimize overall system efficiency. Extensive knowledge designing comprehensive Virtual Private Cloud environments incorporating server, storage, subnets and strategic high availability zones. Proven in DevOps practices, Cloud Engineering and Security through a history of automating and enhancing operational processes. Accomplished guiding full lifecycles from planning to growth, adoption and compliance with architectural strategies, processes and standards.</p>
-        </section>
-        
-        <section>
-            <h2>Skills</h2>
+            <h2>Certifications</h2>
             <ul>
-                <li>AWS solutions Architect</li>
-                <li>Tools: Apache, DNS SERVERS, File systems, Firewalls, Account Mgt, Load balancing, TCP/IP, SSL, SMTP, SFTP, Oracle SQL Developer, SQL*Loader, Exp/Imp/Data pump, Top, Remedy, Jira, Microsoft Visio, Docker</li>
-                <li>Operating System: UNIX (Solaris8/9/10, AIX, HP-UX) LINUX, Windows server 2008</li>
-                <li>Remote Tools: Cisco, Checkpoint VPN, Remote Admin, VNC, Remote Desktop, VMware virtualization</li>
-                <li>AWS: VPC Designing, EC2/Auto Scaling, S3 Life Cycle, RDS Clustering with Multi AZ, ROUTE 53 DNS, lambda. Designing, IAM policies, JSON, AWS Migration, SNS topic with Cloud Watch alarms, Kinesis, Direct Connect, AWS CLI, VPC Peering. ECS, Faregate, Cloud HSM, Control Tower, Organizational Unit, EMR, Redshift, ETL, AWS SSO, Cognito, Data-lake, (Hue, Hive, HBase, MapReduce), CloudFront Distribution, Edge Locations, Docker, Faregate, Data Reporting, Active Directory, PowerShell, SQL, MySQL, windows, Glue, RDS, DynamoDB</li>
+                <li>CompTIA Security Plus</li>
+                <li>AWS Cloud Practitioner</li>
+                <li>AWS Solutions Architect</li>
+                <li>Active Secret Clearance</li>
             </ul>
         </section>
-        
+
+        <section>
+            <h2>Professional Summary</h2>
+            <p>
+                Experienced AWS Solutions Architect/Cloud Security/DevOps Engineer with 3 years of experience. Focused on enabling cloud-based solutions through developing scalable, highly available, and fault-tolerant architectures aligned with organizational goals. Skilled in leveraging automation tools like CodeDeploy, CodeBuild, and CodePipeline to streamline processes and optimize overall system efficiency. Extensive knowledge in designing comprehensive Virtual Private Cloud environments, incorporating server, storage, subnets, and strategic high-availability zones. Proven expertise in DevOps practices, Cloud Engineering, and Security through a history of automating and architecting strategies, processes, and standards. Strong interpersonal skills with a demonstrated ability to collaborate effectively across diverse teams, ensuring successful project outcomes.
+            </p>
+        </section>
+
+        <section>
+            <h2>Professional Skills</h2>
+            <ul>
+                <li><strong>Cloud:</strong> AWS Solutions Architect, VPC Designing, EC2/Auto Scaling, S3, RDS Clustering, IAM Policies, Lambda, CloudFormation, Kinesis, Direct Connect, Cloud HSM, ECS, Fargate, EMR, Redshift, AWS SSO, Cognito, Data Lake, CloudFront, Glue, DynamoDB.</li>
+                <li><strong>Containers:</strong> Docker, Vagrant, VirtualBox.</li>
+                <li><strong>Big Data:</strong> Splunk</li>
+                <li><strong>Configuration Management:</strong> Terraform, Ansible, Chef.</li>
+                <li><strong>Operating Systems:</strong> UNIX (Solaris, AIX, HP-UX), Linux, Windows Server.</li>
+                <li><strong>Networking:</strong> Apache, DNS Servers, Load Balancing, TCP/IP, SSL, VPC Peering.</li>
+                <li><strong>Scripting:</strong> Bash, Python, PowerShell, SQL.</li>
+                <li><strong>Monitoring & Management:</strong> Grafana, AWS CloudWatch, New Relic.</li>
+                <li><strong>File Transfer & Databases:</strong> Sterling File Gateway, Oracle SQL Developer, RDS, DynamoDB, MySQL.</li>
+            </ul>
+        </section>
+
         <section>
             <h2>Work History</h2>
-            
-            <h3>DevSecOps Solution Architect , 06/2018 to Current</h3>
-            <h4>Medtronic (Contract Role Remote)</h4>
-            <ul>
-                <li>Support different migration projects from On-premises to AWS cloud making use of microservices for agility and easy deployment where each application takes ownership of it service to mitigate failure and act within a well define context.</li>
-                <li>Develop and maintain Terraform modules for deployment of all infrastructure.</li>
-                <li>Hands-on experience on implementing Cloud Solutions using various AWS Services including EC2, VPC, S3, Glacier, EFS, AWS Kinesis, Lambda, Directory Services, Cloud Formation, Code Pipeline, Code Build, Code Deploy, Elastic Beanstalk, RDS, Data Pipeline, DynamoDB etc.</li>
-                <li>Expert in automating basic AWS processing using Lambda and python Boto3.</li>
-                <li>Perform an overall assessment of the company's assets, products, supporting platforms, existing on-premises infrastructure, networks, data storage, and web applications to understand the environment as a basis for the design of the AWS Security Architecture.</li>
-                <li>Collaborated with stakeholders to gather requirements, define project scope, and create comprehensive security designs.</li>
-                <li>Implemented CI/CD pipeline with Docker, Jenkins GitHub, Git and building AWS AMI pipelines for those servers.</li>
-                <li>Created fully automated CI/CD build and deployment infrastructure and processes for multiple projects on AWS.</li>
-                <li>Oversaw the deployment and configuration of AWS services, including EC2, S3, RDS, Lambda, and VPC, optimizing performance and security.</li>
-                <li>Managed project timelines, resources, and budgets, ensuring projects were delivered on schedule and within financial constraints.</li>
-                <li>Conducted regular performance assessments, provided coaching and mentorship to team members, and facilitated their professional growth.</li>
-                <li>Implemented and maintained security controls for AWS environments, ensuring the confidentiality, integrity, and availability of sensitive data.</li>
-                <li>Initiated launch of database using Amazon RDS, meticulously configuring a web application to seamlessly connect to database instance, optimizing data management and retrieval.</li>
-                <li>Maintained up-to-date knowledge of AWS Security services, industry trends, and emerging technologies, ensuring the team's proficiency, and staying ahead of the curve.</li>
-                <li>Implemented security best practices in AWS, including multi-factor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies, and ACLs.</li>
-                <li>Performed high level assessment of functional and technical requirements to the client to address the needs of monitoring the health of the overall infrastructure.</li>
-                <li>Leveraged different design principles for security in the cloud and implemented various AWS services to improve the security posture for Authentication, Authorization, Monitoring, Auditing, Encryption, and Data path security.</li>
-                <li>Used Ansible for configuration management of hosted Instances within AWS Configuring and Networking of Virtual Private Cloud (VPC) and designed AWS CloudFormation templates to create custom sized VPC, subnets, NAT to ensure successful deployment of Web applications and database templates.</li>
-            </ul>
-            
-            <h3>DevOps Engineer, 05/2015 to 06/2018</h3>
-            <h4>PWC . (Contract) – Washington DC</h4>
-            <ul>
-                <li>Perform continuous in-depth monitoring of cloud applications (CloudWatch, CloudTrail, VPC Flow Logs, Config, etc.) and provide recommendations for minimizing loss and destruction, mitigating exploited or exploitable weaknesses, and minimizing impact to service/returning to normal service as quickly as possible.</li>
-                <li>Collaborated with cross-functional teams to integrate security controls into the continuous integration/continuous deployment (CI/CD) pipeline, ensuring a secure software development lifecycle.</li>
-                <li>Integrated AWS SSO with active directory for onboarding users into AWS SSO for access into AWS accounts.</li>
-                <li>Created and maintained documentation for security automation processes, facilitating knowledge transfer and training for other team members.</li>
-                <li>Utilized SPLUNK for continues monitoring and Log analyzing to maintain security and improve performance of servers by applying patches as well as upgrades when required.</li>
-                <li>Securing container images by doing proper scanning , hardening images by using secured base images. Using Inspector to scan images.</li>
-                <li>Used Dependabot on GitHub to scan codes pushed into GitHub to detect package vulnerabilities.</li>
-                <li>Identified control gaps in processes, procedures and systems through in-depth research and assessment and suggested methods for improvement.</li>
-                <li>Developed and implemented corrective actions to bring business areas in line with standards.</li>
-                <li>Assist operation team with designing internal and cloud-based vulnerability, penetration testing, and monitoring management programs, using various tools such as Nessus, AWS Inspector, etc.</li>
-                <li>Responsible for oversight and collaboration of the continuous monitoring efforts, including rigorous tracking of POAMs, significant change requests, and monthly submission of documentation to government stakeholders.</li>
-                <li>Collect security control implementation review results, penetration testing results, and vulnerability scan results for reporting to authorizing agencies.</li>
-                <li>Consulted clients on internal control systems development and audit program improvements.</li>
-            </ul>
+            <div class="job">
+                <h3>Medtronic</h3>
+                <p>Role: Jr Solutions Architect/DevOps Engineer</p>
+                <p>Location: Remote</p>
+                <p>Duration: June 2021 - Present</p>
+                <ul>
+                    <li>Supported migration projects from on-premises to AWS Cloud using microservices for agility and ease of deployment.</li>
+                    <li>Developed and maintained Terraform modules for infrastructure deployment.</li>
+                    <li>Configured and deployed AWS Kendra, integrating it with various data sources such as SharePoint, Amazon S3, and relational databases.</li>
+                    <li>Designed and deployed a large-scale application utilizing AWS services like EC2, Route53, S3, RDS, DynamoDB, SNS, SQS, IAM focusing on high availability and fault tolerance.</li>
+                    <li>Automated basic AWS processing using Lambda and Python Boto3.</li>
+                    <li>Implemented CI/CD pipelines with Docker, Jenkins, GitHub, and AWS Code services.</li>
+                    <li>Oversaw the deployment and configuration of AWS services, optimizing performance and security.</li>
+                    <li>Managed project timelines, resources, and budgets, ensuring timely and cost-effective delivery.</li>
+                    <li>Implemented security best practices in AWS, including multi-factor authentication and role-based permissions.</li>
+                    <li>Designed database schemas, tables, indexes, and managed Oracle databases on AWS.</li>
+                </ul>
+            </div>
 
-            <h3>INFORMATION SUPPORT SPECIALIST, 2014-2015</h3>
-            <h4>US ARMY</h4>
-            <ul>
-                <li>Oversee the operation and maintenance of computer networks, ensuring reliable and secure communication channels within the Army.</li>
-                <li>Administer and manage computer hardware, software, and virtualized systems, including regular updates and security patches.</li>
-                <li>Implement and enforce cybersecurity measures to protect data and network integrity against cyber threats and unauthorized access.</li>
-                <li>Configure and maintain network devices such as routers, switches, and firewalls to ensure efficient network performance.</li>
-                <li>Ensure compliance with military and federal information security regulations and standards</li>
-                <li>Operate and maintain various communication equipment, including radios, satellite systems, and digital networks.</li>
-                <li>Install, maintain, and troubleshoot signal support systems and terminal devices, ensuring they are operational and reliable.</li>
-            </ul>
+            <div class="job">
+                <h3>DC Army National Guard</h3>
+                <p>Role: Information Support Systems Specialist</p>
+                <p>Location: DC, Washington</p>
+                <p>Duration: January 2019 - Present</p>
+                <ul>
+                    <li>Oversaw the operation, administration, and maintenance of military communication networks, ensuring seamless and secure communication within the organization.</li>
+                    <li>Managed and secured computer hardware, software, and virtualized systems, performing regular updates and security patching to safeguard against vulnerabilities.</li>
+                    <li>Implemented robust cybersecurity measures, protecting sensitive data and ensuring compliance with military and federal regulations.</li>
+                    <li>Configured and optimized network devices, including routers, switches, and firewalls, to maintain optimal network performance.</li>
+                    <li>Provided technical support and training to military personnel, enhancing their operational effectiveness and technical proficiency.</li>
+                    <li>Operated, installed, and maintained a wide range of communication equipment, including radios and satellite systems, ensuring all systems were operational and reliable.</li>
+                    <li>Demonstrated strong leadership and teamwork skills, working closely with diverse teams to resolve complex technical issues and improve overall mission success.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>Oklahoma Army National Guard</h3>
+                <p>Role: Information Support Specialist</p>
+                <p>Location: Oklahoma</p>
+                <p>Duration: June 2017 – January 2018</p>
+                <ul>
+                    <li>Administered and managed military IT systems, ensuring reliable and secure operation of networks and communication systems.</li>
+                    <li>Provided technical support to unit personnel, facilitating efficient use of technology in mission-critical situations.</li>
+                    <li>Enforced cybersecurity protocols, protecting sensitive military information from unauthorized access and cyber threats.</li>
+                    <li>Played a key role in training military personnel on the use of various IT systems, fostering a collaborative and knowledgeable work environment.</li>
+                    <li>Installed and maintained signal support systems, ensuring continuous and effective communication across all units.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>Camp Taji, Iraq (U.S. Army)</h3>
+                <p>Role: Ammunition Supply Specialist</p>
+                <p>Location: Camp Taji, Iraq</p>
+                <p>Duration: January 2017 - December 2017</p>
+                <ul>
+                    <li>Managed the receipt, storage, and issuance of ammunition and explosives.</li>
+                    <li>Ensured compliance with safety regulations and procedures for handling ammunition.</li>
+                    <li>Conducted regular inventory checks and maintained accurate records.</li>
+                    <li>Coordinated transportation and distribution of ammunition to various locations.</li>
+                    <li>Provided logistical support and ensured timely delivery of supplies.</li>
+                </ul>
+            </div>
         </section>
-        
+
         <section>
             <h2>Education</h2>
-            <p>Ferndale High School (2006 - 2008) High School Diploma</p>
-            <p>Oakland Community College ( 2009 - 2012) Major: Physical Therapy (Did Not Complete)</p>
-            <p>Oklahoma State University (2012 - 2014) Major: Electrical Engineering (Did not complete)</p>
-        </section>
-        
-        <section>
-            <h2>Certifications</h2>
-            <p>CompTIA Security Plus</p>
-            <p>AWS Cloud Practitioner</p>
-            <p>AWS Solutions Architect</p>
-            <p>Active Secret Clearance</p>
+            <ul>
+                <li>Ferndale High School (2006 - 8) High School Diploma</li>
+                <li>Oakland Community College (2009 - 2012) Major: Physical Therapy (Did Not Complete)</li>
+                <li>Oklahoma State University (2012 - 2014) Major: Electrical Engineering (Did Not Complete)</li>
+            </ul>
         </section>
     </div>
 </body>
